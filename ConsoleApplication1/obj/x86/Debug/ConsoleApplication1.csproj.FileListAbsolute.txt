@@ -1,0 +1,16 @@
+C:\Users\Meushr1\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Meushr1\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Meushr1\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Meushr1\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Meushr1\Documents\Visual Studio 2010\Projects\MiniMax 3T\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Meushr1\Documents\Visual Studio 2010\Projects\MiniMax 3T\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Meushr1\Documents\Visual Studio 2010\Projects\MiniMax 3T\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Meushr1\Documents\Visual Studio 2010\Projects\MiniMax 3T\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\user1\Desktop\MiniMax 3T\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\user1\Desktop\MiniMax 3T\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\user1\Desktop\MiniMax 3T\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\user1\Desktop\MiniMax 3T\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Meushr1\Desktop\MiniMax 3T\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Meushr1\Desktop\MiniMax 3T\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Meushr1\Desktop\MiniMax 3T\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Meushr1\Desktop\MiniMax 3T\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
